@@ -58,7 +58,6 @@ I'm Rafael Hidalgo, a versatile and innovative computer scientist with a rich ba
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title='Pandas' width="40" height="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title='Jupyter' width="40" height="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" width="40" height="40"> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" width="40" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"> 
@@ -66,8 +65,5 @@ I'm Rafael Hidalgo, a versatile and innovative computer scientist with a rich ba
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" width="40" height="40"> 
 
 </div>
