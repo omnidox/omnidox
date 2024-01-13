@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="500"/>
   <h1>Welcome to Rafael Hidalgo's Profile 👋</h1>
 </div>
 
