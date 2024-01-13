@@ -11,12 +11,7 @@
     <a href="mailto: rafaelhidalgo005@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://medium.com/@datachisme">
-      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
-    </a>
-<!--   <a href="rafaelhidalgo005@gmail.com">
-    <img src="https://github.com/lauxpaux/lauxpaux/assets/40530704/185019a0-684c-4eea-8c17-6f220fa2dea6" alt="Gmail Badge"/>
-  </a> -->
+
 
 </div>
 
