@@ -15,14 +15,42 @@
 
 </div>
 
-### About Me ###
-<div id="bio">
-  <p>With a strong foundation in data science and machine learning, I bring over 2 years of experience driving high-leverage projects that have made a tangible impact. During my tenure at NASA, I had the privilege of supporting critical research projects by applying advanced data analysis techniques and statistical modeling. This invaluable experience equipped me with a deep understanding of complex datasets and the ability to extract valuable insights that inform strategic decision-making.
+# About Rafael Hidalgo
 
-As a passionate advocate for machine learning, I have cultivated a robust portfolio and publication list that reflects my expertise in AI and machine learning. Through rigorous research efforts, I have successfully implemented machine learning algorithms to solve complex problems and optimize processes. By staying at the forefront of emerging trends, I have contributed to advancements in the field and remain committed to driving innovation through the application of cutting-edge technologies.</p>
- </div>
+Hello! I'm Rafael Hidalgo, a computer scientist with a diverse background that includes analytical chemistry and innovative technologies. My career showcases adaptability and strong problem-solving abilities.
+
+## Academic Background
+
+I earned a Master of Science in Computer Science from Montclair State University, excelling in Java Programming, Data Structures, and Software Engineering, achieving a 3.874 GPA over 46 credit hours.
+
+## Professional Journey
+
+I graduated as a biologist and then eventually wound up becoming an Analytical Chemist II at Nelson Laboratories, where I honed my research skills and attention to detail. This experience laid the groundwork for my transition to computer science.
+
+## Computer Science Contributions
+
+I've contributed to computer science through projects like:
+
+- **Personalizing Text-to-Image Diffusion Models:** Research on advanced AI models.  
+  [Research Link](https://www.researchgate.net/publication/369476053_Personalizing_Text-to-Image_Diffusion_Models_by_Fine-Tuning_Classification_for_AI_Applications)
+
+- **Phylogenetic Relationships Study:** Applying algorithms to biological data.  
+  [Research Link](https://ieeexplore.ieee.org/document/10020454)
+
+## Technical Skills and Competencies
+
+Proficient in Python, C, PHP, SQL, Java, and JavaScript, I also possess bilingual skills in Spanish, with strong problem-solving and collaborative abilities.
+
+## Recent Innovations
+
+My recent work includes developing the 'Robo-CSK-Organizer' in AI and robotics, showcasing my commitment to technological advancement.
+
+## Why I Stand Out?
+
+My transition from analytical chemistry to computer science, combined with diverse academic and professional experiences, makes me uniquely suited for the tech industry. My blend of scientific rigor and technological innovation enables me to contribute significantly to multidisciplinary projects, bridging gaps between fields and driving technological advancements.
+
  
-### Languages and Tools ###
+## Languages and Tools ##
 <div id="badges">
 <!--   ###:hammer_and_wrench: Languages and Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='python' width="40" height="40">&nbsp;
