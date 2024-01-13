@@ -1,87 +1,73 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cfF1c9rnGV8cBJIsjp/giphy.gif" width="250"/>
-  <h1>Hi there 👋</h1>
+  <h1>Welcome to Rafael Hidalgo's Profile 👋</h1>
 </div>
-
 
 <div id="contact" align="center">
   <a href="https://www.linkedin.com/in/rafael-omar-hidalgo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="mailto: rafaelhidalgo005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-    </a>
-
-
+  <a href="mailto:rafaelhidalgo005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
-# About Rafael Hidalgo
+# About Me
 
-Hello! I'm Rafael Hidalgo, a computer scientist with a diverse background that includes analytical chemistry and innovative technologies. My career showcases adaptability and strong problem-solving abilities.
+I'm Rafael Hidalgo, a versatile and innovative computer scientist with a rich background in analytical chemistry. My journey through various disciplines has equipped me with exceptional adaptability and problem-solving skills.
 
-## Academic Background
+## Academic Achievements
 
-I earned a Master of Science in Computer Science from Montclair State University, excelling in Java Programming, Data Structures, and Software Engineering, achieving a 3.874 GPA over 46 credit hours.
+- **Montclair State University:** Master of Science in Computer Science.
+  - **Focus:** Java Programming, Data Structures, Software Engineering.
+  - **GPA:** 3.874 over 46 credit hours.
 
-## Professional Journey
+## Professional Evolution
 
-I graduated as a biologist and then eventually wound up becoming an Analytical Chemist II at Nelson Laboratories, where I honed my research skills and attention to detail. This experience laid the groundwork for my transition to computer science.
+- **From Biologist to Analytical Chemist II at Nelson Laboratories:** Cultivated meticulous research skills and an eye for detail.
+- **Transition to Computer Science:** Leveraging a strong scientific foundation to innovate in technology.
 
-## Computer Science Contributions
+## Contributions to Computer Science
 
-I've contributed to computer science through projects like:
+- **Personalizing Text-to-Image Diffusion Models:** 
+  - Advanced AI model research. 
+  - [Read more](https://www.researchgate.net/publication/369476053_Personalizing_Text-to-Image_Diffusion_Models_by_Fine-Tuning_Classification_for_AI_Applications)
 
-- **Personalizing Text-to-Image Diffusion Models:** Research on advanced AI models.  
-  [Research Link](https://www.researchgate.net/publication/369476053_Personalizing_Text-to-Image_Diffusion_Models_by_Fine-Tuning_Classification_for_AI_Applications)
+- **Phylogenetic Relationships Study:** 
+  - Applying algorithms to biological data.
+  - [Explore the Study](https://ieeexplore.ieee.org/document/10020454)
 
-- **Phylogenetic Relationships Study:** Applying algorithms to biological data.  
-  [Research Link](https://ieeexplore.ieee.org/document/10020454)
+## Core Technical Skills
 
-## Technical Skills and Competencies
+- **Languages:** Python, C, PHP, SQL, Java, JavaScript.
+- **Additional Skills:** Fluent in Spanish, robust problem-solving capabilities, and excellent collaborative skills.
 
-Proficient in Python, C, PHP, SQL, Java, and JavaScript, I also possess bilingual skills in Spanish, with strong problem-solving and collaborative abilities.
+## Innovations
 
-## Recent Innovations
+- **Robo-CSK-Organizer:** My latest project in AI and robotics, demonstrating a dedication to pushing the boundaries of technology.
 
-My recent work includes developing the 'Robo-CSK-Organizer' in AI and robotics, showcasing my commitment to technological advancement.
+## Why Me?
 
-## Why I Stand Out?
+- **Unique Blend of Science and Tech:** From analytical chemistry to computer science, my diverse experiences allow me to offer unique perspectives and innovative solutions.
+- **Multidisciplinary Impact:** I excel in uniting scientific rigor with technological innovation, contributing meaningfully to multifaceted projects.
 
-My transition from analytical chemistry to computer science, combined with diverse academic and professional experiences, makes me uniquely suited for the tech industry. My blend of scientific rigor and technological innovation enables me to contribute significantly to multidisciplinary projects, bridging gaps between fields and driving technological advancements.
-
- 
-## Languages and Tools ##
+## Languages and Tools
 <div id="badges">
-<!--   ###:hammer_and_wrench: Languages and Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='python' width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title='numpy' width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title='pandas' width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title='jupyter' width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" width="40" height="40">&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" width="40" height="40">&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="matplotlib" width="40" height="40">&nbsp;   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="colab" width="40" height="40">&nbsp;                   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikitlearn" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40">&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40">&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket" width="40" height="40">&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="confluence" width="40" height="40">&nbsp;          </div>
-  
- 
-<!--
-**lauxpaux/lauxpaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='Python' width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title='NumPy' width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title='Pandas' width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title='Jupyter' width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" width="40" height="40"> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="40" height="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="40" height="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" width="40" height="40"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="JIRA" width="40" height="40"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" width="40" height="40"> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...![Uploading python.svg…]()
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
