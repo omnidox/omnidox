@@ -15,44 +15,34 @@
   </a>
 </div>
 
-# About Me
+# Innovative and Insight-Driven Data Scientist
 
-I'm Rafael Hidalgo, a versatile and innovative computer scientist with a rich background in analytical chemistry. My journey through various disciplines has equipped me with exceptional adaptability and problem-solving skills.
+I am an **INNOVATIVE AND INSIGHT-DRIVEN DATA SCIENTIST**, deeply passionate about transforming complex data landscapes into actionable insights that fuel business innovation and efficiency. With a Master of Science in Computer Science from Montclair State University, marked by a 3.9 GPA, my academic journey has been enriched with in-depth studies in Data Mining, Databases, and Algorithms, propelling me into the forefront of data science. My passion for data science is not just about the analytics; it's about crafting narratives that solve real-world problems and enhance business operations.
 
-## Academic Achievements
+## Key Achievements
 
-- **Montclair State University:** Master of Science in Computer Science.
-  - **Focus:** Java Programming, Data Structures, Software Engineering.
-  - **GPA:** 3.874 over 46 credit hours.
+- **COLLABORATIVE PROJECT COORDINATION**: In my thesis project, the 'Robo-CSK-Organizer', I played a pivotal role in coordinating a diverse team's efforts to integrate advanced AI models and knowledge graphs into practical robotics applications. This initiative led to groundbreaking advancements in zero-shot organizational tasks, achieved through a spirit of collaboration and collective expertise.
 
-## Professional Evolution
+- **TECHNOLOGICAL INNOVATION**: I have pushed the boundaries of AI through personalizing text-to-image diffusion models, enhancing their capability to generate art from text, a testament to my skills in machine learning model development and hyperparameter optimization.
 
-- **From Biologist to Analytical Chemist II at Nelson Laboratories:** Cultivated meticulous research skills and an eye for detail.
-- **Transition to Computer Science:** Leveraging a strong scientific foundation to innovate in technology.
+- **RESEARCH & DEVELOPMENT**: My work on inferring phylogenetic relationships has not only contributed to the scientific community but also honed my expertise in applying advanced algorithms for meaningful data analysis, showcasing my ability to lead and execute high-impact research projects.
 
-## Contributions to Computer Science
+- **TEAMWORK AND COMMUNITY ENGAGEMENT**: Demonstrating a track record of impactful presentations at conferences such as IEEE and IntelliSys, I have showcased my ability to drive advancements in data science while effectively engaging with the wider community. My efforts have contributed to a culture of shared knowledge and innovation, highlighting the importance of collective progress in the field.
 
-- **Personalizing Text-to-Image Diffusion Models:** 
-  - Advanced AI model research. 
-  - [Read more](https://www.researchgate.net/publication/369476053_Personalizing_Text-to-Image_Diffusion_Models_by_Fine-Tuning_Classification_for_AI_Applications)
+## Skills and Technologies
 
-- **Phylogenetic Relationships Study:** 
-  - Applying algorithms to biological data.
-  - [Explore the Study](https://ieeexplore.ieee.org/document/10020454)
+- Data Mining, Deep Learning, Machine Learning, Pandas, R, Data Science & Analytics
+- Data Processing & Visualization, Python, C, PHP, SQL, XAMP, CSS, Node.js, HTML
+- Visual Studio IDE, Java, JavaScript, Express.js, Microsoft Office, Git, GitHub, Weka
+- MEVN Stack, Android Studio IDE, ReactJS, C++, Chat GPT API, AWS, Linux
+- Big Data, Docker, Natural Language Processing (NLP), Large Language Models (LLM's)
+- Computer Vision Models, Time series analysis, Prompt Engineering
+- Fine-Tuning Machine Learning Models, Flask, Trees, Logistic regression, Neural networks, API's
 
-## Core Technical Skills
+## Contact
 
-- **Languages:** Python, C, PHP, SQL, Java, JavaScript.
-- **Additional Skills:** Fluent in Spanish, robust problem-solving capabilities, and excellent collaborative skills.
+✉ rafaelhidalgo005@gmail.com
 
-## Innovations
-
-- **Robo-CSK-Organizer:** My latest project in AI and robotics, demonstrating a dedication to pushing the boundaries of technology.
-
-## Why Me?
-
-- **Unique Blend of Science and Tech:** From analytical chemistry to computer science, my diverse experiences allow me to offer unique perspectives and innovative solutions.
-- **Multidisciplinary Impact:** I excel in uniting scientific rigor with technological innovation, contributing meaningfully to multifaceted projects.
 
 ## Languages and Tools
 <div id="badges">
