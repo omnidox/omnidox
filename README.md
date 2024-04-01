@@ -10,6 +10,9 @@
   <a href="mailto:rafaelhidalgo005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Rafael-Hidalgo-5">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
 </div>
 
 # About Me
