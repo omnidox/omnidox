@@ -1,6 +1,26 @@
 <div id="header" align="center">
+
+  <style>
+  .image-crop {
+    width: 500px; /* Adjust width as needed */
+    height: 450px; /* Adjust height to crop from top */
+    overflow: hidden;
+    position: relative;
+  }
+
+  .image-crop img {
+    width: 500px; /* Maintain original width */
+    position: absolute;
+    top: -50px; /* Adjust this value to control how much to crop from the top */
+  }
+</style>
+
+
+
 <!--   <img src="https://preview.redd.it/prph3whi9f061.jpg?auto=webp&s=e0eef8a3588e70fd963a54aae0f8b049adc168a" width="500"/> -->
-  <img src="https://github.com/omnidox/omnidox/blob/main/AI.gif?raw=true" width="500"/>
+  <div class="image-crop">
+    <img src="https://github.com/omnidox/omnidox/blob/main/AI.gif?raw=true">
+  </div>
 
   <h1>Welcome to Rafael Hidalgo's Profile 👋</h1>
 </div>
