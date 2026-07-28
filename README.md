@@ -1,62 +1,216 @@
 <div id="header" align="center">
   <img src="https://github.com/omnidox/omnidox/blob/main/AI2.gif?raw=true" width="500"/>
-  <h1>Welcome to Rafael Hidalgo's Profile 👋</h1>
+  <h1>Welcome to Rafael Hidalgo's GitHub 👋</h1>
+  <h3>ERP Software Engineer | Backend Systems Engineer | Applied AI Researcher</h3>
 </div>
 
 <div id="contact" align="center">
   <a href="https://www.linkedin.com/in/rafael-omar-hidalgo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   <a href="mailto:rafaelhidalgo005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+
   <a href="https://www.researchgate.net/profile/Rafael-Hidalgo-5">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
   </a>
 </div>
 
-# Innovative and Insight-Driven Data Scientist
+---
 
-I am an **INNOVATIVE AND INSIGHT-DRIVEN DATA SCIENTIST**, deeply passionate about transforming complex data landscapes into actionable insights that fuel business innovation and efficiency. With a Master of Science in Computer Science from Montclair State University, marked by a 3.9 GPA, my academic journey has been enriched with in-depth studies in Data Mining, Databases, and Algorithms, propelling me into the forefront of data science. My passion for data science is not just about the analytics; it's about crafting narratives that solve real-world problems and enhance business operations.
+# About Me
 
-## Key Achievements
+I'm a Software Engineer specializing in ERP development, backend systems, enterprise integrations, and workflow automation.
 
-- **COLLABORATIVE PROJECT COORDINATION**: In my thesis project, the 'Robo-CSK-Organizer', I played a pivotal role in coordinating a diverse team's efforts to integrate advanced AI models and knowledge graphs into practical robotics applications. This initiative led to groundbreaking advancements in zero-shot organizational tasks, achieved through a spirit of collaboration and collective expertise.
+Currently, I develop production applications and customizations for the **Acumatica ERP** platform at **iStar Jewelry**, building solutions that improve warehouse operations, inventory management, shipping workflows, document generation, and internal business processes.
 
-- **TECHNOLOGICAL INNOVATION**: I have pushed the boundaries of AI through personalizing text-to-image diffusion models, enhancing their capability to generate art from text, a testament to my skills in machine learning model development and hyperparameter optimization.
+My work spans **C#, ASP.NET, Node.js, Python, SQL, React, REST APIs, Linux, and cloud-native services**, with a strong emphasis on creating maintainable, scalable systems that automate business operations and improve operational efficiency.
 
-- **RESEARCH & DEVELOPMENT**: My work on inferring phylogenetic relationships has not only contributed to the scientific community but also honed my expertise in applying advanced algorithms for meaningful data analysis, showcasing my ability to lead and execute high-impact research projects.
+Before transitioning into enterprise software engineering, I completed a **Master of Science in Computer Science** at **Montclair State University**, where my research focused on Artificial Intelligence, Machine Learning, Natural Language Processing, Computer Vision, and Robotics. That research background continues to influence how I approach software architecture, automation, and intelligent system design.
 
-- **TEAMWORK AND COMMUNITY ENGAGEMENT**: Demonstrating a track record of impactful presentations at conferences such as IEEE and IntelliSys, I have showcased my ability to drive advancements in data science while effectively engaging with the wider community. My efforts have contributed to a culture of shared knowledge and innovation, highlighting the importance of collective progress in the field.
+I enjoy solving complex technical problems by combining software engineering, system architecture, and practical business solutions.
 
-## Skills and Technologies
+---
 
-- Data Mining, Deep Learning, Machine Learning, Pandas, R, Data Science & Analytics
-- Data Processing & Visualization, Python, C, PHP, SQL, XAMP, CSS, Node.js, HTML
-- Visual Studio IDE, Java, JavaScript, Express.js, Microsoft Office, Git, GitHub, Weka
-- MEVN Stack, Android Studio IDE, ReactJS, C++, Chat GPT API, AWS, Linux
-- Big Data, Docker, Natural Language Processing (NLP), Large Language Models (LLM's)
-- Computer Vision Models, Time series analysis, Prompt Engineering
-- Fine-Tuning Machine Learning Models, Flask, Trees, Logistic regression, Neural networks, API's
+# Professional Highlights
 
-## Contact
+## ERP Development
 
-✉ rafaelhidalgo005@gmail.com
+- Develop production customizations and extensions for the Acumatica ERP platform.
+- Build warehouse management (WMS) functionality supporting shipping, inventory, and fulfillment operations.
+- Design ERP integrations using REST APIs and backend services.
+- Automate inventory management, document generation, and operational workflows.
 
+## Backend Engineering
 
-## Languages and Tools
+- Architect production services using C#, Node.js, Python, and SQL.
+- Develop internal web applications using React and modern backend technologies.
+- Design scalable backend architectures for manufacturing and distribution environments.
+- Deploy and maintain Linux-based production services using Nginx and PM2.
+
+## Systems Integration
+
+- ERP API integrations
+- FedEx and UPS carrier integrations
+- Barcode and label generation systems
+- Excel automation
+- PDF document generation
+- Warehouse automation
+- Shipping workflow optimization
+
+## Artificial Intelligence & Research
+
+- Published AI research in IEEE and IntelliSys conferences.
+- Experience with:
+  - Large Language Models (LLMs)
+  - Natural Language Processing
+  - Computer Vision
+  - Explainable AI
+  - Robotics
+  - Diffusion Models
+  - Prompt Engineering
+
+---
+
+# Featured Projects
+
+- ERP Customizations for Acumatica
+- Warehouse Management (WMS) Extensions
+- Carrier Integration Services (FedEx / UPS)
+- Carton Scanner Application
+- Packing Slip Automation Pipeline
+- Bill of Lading (BOL) Generator
+- Automatic Inventory Numbering System
+- Internal Business Process Automation Tools
+- AI Research Projects
+- Machine Learning Publications
+
+---
+
+# Technical Skills
+
+## ERP & Enterprise Systems
+
+- Acumatica ERP
+- ERP Customizations
+- Warehouse Management Systems (WMS)
+- REST APIs
+- ERP Integrations
+- SQL
+- Business Process Automation
+
+## Backend Development
+
+- C#
+- ASP.NET
+- Python
+- Node.js
+- Express.js
+- JavaScript
+- TypeScript
+- SQL
+- PostgreSQL
+- MySQL
+
+## Frontend Development
+
+- React
+- HTML
+- CSS
+
+## DevOps & Infrastructure
+
+- Linux
+- Docker
+- AWS
+- Nginx
+- PM2
+- Git
+- GitHub
+
+## Artificial Intelligence
+
+- PyTorch
+- TensorFlow
+- Natural Language Processing
+- Computer Vision
+- Large Language Models (LLMs)
+- Prompt Engineering
+- OpenAI API
+- Machine Learning
+
+---
+
+# Research & Publications
+
+### Robo-CSK-Organizer: Commonsense Knowledge to Organize Detected Objects for Multipurpose Robots
+
+- IEEE IEMTRONICS 2024
+- Commonsense Knowledge Graphs
+- Robotics
+- Explainable AI
+- Large Language Models
+
+### Personalizing Text-to-Image Diffusion Models via Fine-Tuned Classification
+
+- IntelliSys 2023
+- Diffusion Models
+- Computer Vision
+- Deep Learning
+- PyTorch
+
+### Inferring Phylogenetic Relationships Using Smith-Waterman and Hierarchical Clustering
+
+- IEEE BigData 2022
+- Bioinformatics
+- Machine Learning
+- Data Analysis
+
+---
+
+# Contact
+
+📧 **rafaelhidalgo005@gmail.com**
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/rafael-omar-hidalgo/
+
+---
+
+# Languages & Tools
+
 <div id="badges">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title='Python' width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title='NumPy' width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title='Pandas' width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title='Jupyter' width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" width="40" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" width="40" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title="Colab" width="40" height="40"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"> 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
 
 </div>
