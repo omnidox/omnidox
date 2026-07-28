@@ -1,7 +1,17 @@
 <div id="header" align="center">
-  <img src="https://github.com/omnidox/omnidox/blob/main/AI2.gif?raw=true" width="500"/>
-  <h1>Welcome to Rafael Hidalgo's GitHub 👋</h1>
-  <h3>ERP Software Engineer | Backend Systems Engineer | Applied AI Researcher</h3>
+
+  <img
+    src="https://raw.githubusercontent.com/omnidox/omnidox/main/banner.png"
+    alt="Rafael Hidalgo Banner"
+    width="100%"
+  />
+
+  <h1>Hi, I'm Rafael Hidalgo 👋</h1>
+
+  <h3>
+    ERP Software Engineer • Backend Systems Engineer • Enterprise Automation • Applied AI
+  </h3>
+
 </div>
 
 <div id="contact" align="center">
